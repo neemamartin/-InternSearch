@@ -1,6 +1,6 @@
 # InternSearch
 
-Internships are crucial for students to explore career paths and gain market insights. To streamline this process, we developed **InternSearch**, an Online Internship Platform that compiles internship positions from various companies on one platform.
+Internships are crucial for students to explore career paths and gain market insights. To streamline this process,**InternSearch**, an Online Internship Platform that compiles internship positions from various companies on one platform.
 
 ## Key Features
 
